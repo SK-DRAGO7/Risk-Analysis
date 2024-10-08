@@ -1,5 +1,0 @@
-plotly==5.24.1
-pandas==2.0.3
-numpy==1.24.4
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
-matplotlib==3.7.5
